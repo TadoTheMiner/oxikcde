@@ -7,7 +7,7 @@ description = "XKCD oxidised"
 
 [dependencies]
 bitflags = "2.8.0"
-clap = { version = "4.5.20", features = ["cargo", "derive", "string"] }
+clap = { version = "4.5.38", features = ["cargo", "derive", "string"] }
 cli-log = "2.1.0"
 color-eyre = "0.6.3"
 colors-transform = "0.2.11"
